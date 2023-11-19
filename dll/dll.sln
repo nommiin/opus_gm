@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opus_gm", "opus_gm.vcxproj", "{DF9F0772-4B7F-860D-5497-11E4C0F5EC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF9F0772-4B7F-860D-5497-11E4C0F5EC6E}.Debug|x64.ActiveCfg = Debug|x64
+		{DF9F0772-4B7F-860D-5497-11E4C0F5EC6E}.Debug|x64.Build.0 = Debug|x64
+		{DF9F0772-4B7F-860D-5497-11E4C0F5EC6E}.Release|x64.ActiveCfg = Release|x64
+		{DF9F0772-4B7F-860D-5497-11E4C0F5EC6E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

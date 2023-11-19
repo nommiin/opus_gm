@@ -1,0 +1,1 @@
+buffer_delete(async_load[? "buffer_id"]);
